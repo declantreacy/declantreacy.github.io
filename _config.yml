@@ -1,0 +1,25 @@
+---
+title: Poképedia
+timezone: Australia/Sydney
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: declan@treacy.id.au
+description: Gotta read 'em all!
+encoding: utf-8
+locale: en-AU
+baseurl: ''
+#url: https://www.pmtc.com.au
+markdown: kramdown
+highlighter: rouge
+markdown_ext: markdown,mkdown,mkdn,mkd,md
+permalink: pretty
+plugins:
+- jekyll-sitemap
+exclude:
+- Gemfile
+- Gemfile.lock
