@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pokémon of the Day"
+title:  "Squirtle"
 date:   2017-10-26 20:20:47 +1100
 categories: jekyll update
 permalink: /squirtle/

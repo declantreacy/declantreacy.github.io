@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pokémon of the Day"
+title:  "Charizard"
 date:   2017-10-26 20:20:47 +1100
 categories: jekyll update
 permalink: /charizard/

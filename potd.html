@@ -1,0 +1,14 @@
+---
+layout: page
+title:  "Pokémon of the Day"
+categories: jekyll update
+permalink: /potd/
+---
+
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+</ul>
