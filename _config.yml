@@ -15,7 +15,7 @@ locale: en-AU
 baseurl: 
 markdown: kramdown
 highlighter: rouge
-markdown_ext: markdown,mkdown,mkdn,mkd,md
+markdown_ext: md,markdown,mkdown,mkdn,mkd
 permalink: pretty
 plugins:
 - jekyll-sitemap
