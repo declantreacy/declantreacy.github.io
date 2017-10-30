@@ -2,5 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .vscode
+.DS_Store
 Gemfile.lock
 *.gem
