@@ -1,10 +1,7 @@
 ---
 title: Charmander
-date: 2017-10-26 20:20:47 +11:00
+date: 2017-10-27 20:20:00 +11:00
 permalink: "/charmander/"
-categories:
-- jekyll
-- update
 layout: post
 ---
 
