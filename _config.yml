@@ -13,7 +13,6 @@ description: Gotta read 'em all!
 encoding: utf-8
 locale: en-AU
 baseurl: ''
-#url: https://www.pmtc.com.au
 markdown: kramdown
 highlighter: rouge
 markdown_ext: markdown,mkdown,mkdn,mkd,md

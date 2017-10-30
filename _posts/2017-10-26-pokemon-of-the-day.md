@@ -1,9 +1,11 @@
 ---
+title: Squirtle
+date: 2017-10-26 20:20:47 +11:00
+permalink: "/squirtle/"
+categories:
+- jekyll
+- update
 layout: post
-title:  "Squirtle"
-date:   2017-10-26 20:20:47 +1100
-categories: jekyll update
-permalink: /squirtle/
 ---
 
 # Squirtle

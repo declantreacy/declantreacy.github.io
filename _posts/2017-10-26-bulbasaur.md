@@ -1,9 +1,11 @@
 ---
+title: Bulbasaur
+date: 2017-10-26 20:20:47 +11:00
+permalink: "/bulbasaur/"
+categories:
+- jekyll
+- update
 layout: post
-title:  "Bulbasaur"
-date:   2017-10-26 20:20:47 +1100
-categories: jekyll update
-permalink: /bulbasaur/
 ---
 
 # Bulbasaur

@@ -1,9 +1,11 @@
 ---
+title: Charizard
+date: 2017-10-26 20:20:47 +11:00
+permalink: "/charizard/"
+categories:
+- jekyll
+- update
 layout: post
-title:  "Charizard"
-date:   2017-10-26 20:20:47 +1100
-categories: jekyll update
-permalink: /charizard/
 ---
 
 # Charizard
