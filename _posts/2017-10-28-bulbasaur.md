@@ -1,10 +1,7 @@
 ---
 title: Bulbasaur
-date: 2017-10-26 20:20:47 +11:00
+date: 2017-10-28 09:00:00 +11:00
 permalink: "/bulbasaur/"
-categories:
-- jekyll
-- update
 layout: post
 ---
 
