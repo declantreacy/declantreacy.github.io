@@ -4,7 +4,6 @@ date: 2017-10-30 19:23:00 +11:00
 permalink: cubone
 ---
 
-
 # Cubone
 
 ![Cubone](https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png)
