@@ -12,7 +12,7 @@ email: declan@treacy.id.au
 description: Gotta read 'em all!
 encoding: utf-8
 locale: en-AU
-baseurl: ''
+baseurl: 
 markdown: kramdown
 highlighter: rouge
 markdown_ext: markdown,mkdown,mkdn,mkd,md
