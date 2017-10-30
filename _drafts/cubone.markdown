@@ -1,0 +1,16 @@
+---
+title: Cubone
+date: 2017-10-30 19:23:00 +11:00
+permalink: cubone
+---
+
+
+# Cubone
+
+![Cubone](https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png)
+
+**_Pokédex No.: 104_**
+
+Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.
+
+[Read More Here](https://www.pokemon.com/au/pokedex/cubone)
