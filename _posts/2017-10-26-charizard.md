@@ -1,6 +1,6 @@
 ---
 title: Charizard
-date: 2017-10-26
+date: 2017-10-26 00:00:00 +11:00
 permalink: "/charizard/"
 layout: post
 ---
