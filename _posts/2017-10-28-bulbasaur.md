@@ -1,6 +1,6 @@
 ---
 title: Bulbasaur
-date: 2017-10-28 09:00:00 +11:00
+date: 2017-10-28
 permalink: "/bulbasaur/"
 layout: post
 ---

@@ -1,6 +1,6 @@
 ---
 title: Charmander
-date: 2017-10-27 20:20:00 +11:00
+date: 2017-10-27
 permalink: "/charmander/"
 layout: post
 ---
