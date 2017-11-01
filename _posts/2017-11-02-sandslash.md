@@ -15,6 +15,7 @@ layout: post
 
 **Alpha Sapphire:** Sandslash can roll up its body as if it were a ball covered with large spikes. In battle, this Pokémon will try to make the foe flinch by jabbing it with its spines. It then leaps at the stunned foe to tear wildly with its sharp claws.
 
+---
 
 # Alolan Sandslash
 ![Alolan Sandslash](https://assets.pokemon.com/assets/cms2/img/pokedex/full/028_f2.png)
