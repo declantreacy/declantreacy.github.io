@@ -13,4 +13,4 @@ layout: post
 
 The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.
 
-[Read More Here](https://www.pokemon.com/au/pokedex/charmander)
+[Read more here](https://www.pokemon.com/au/pokedex/charmander)
