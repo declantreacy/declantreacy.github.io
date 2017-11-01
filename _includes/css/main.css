@@ -9,6 +9,10 @@ body {
   margin-bottom: 60px;
 }
 
+img {
+  max-width: 80%;
+}
+
 .main-content {
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
@@ -56,15 +60,15 @@ ul {
   height: 60px;
   line-height: 60px;
   /* Vertically center the text there */
-  color: #fff;
+  color: rgba(255,255,255,.5);
   background-color: #BF0000;
 }
 
 footer > div > a {
-  color: rgba(219, 127, 129, 1)
+  color: rgba(255,255,255,.5);
 }
 
 footer > div > a:hover {
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,1);
   text-decoration: none;
 }
