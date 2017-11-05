@@ -1,0 +1,16 @@
+---
+title: Arbok
+date: 2017-11-05 15:05:00 +11:00
+permalink: arbok
+layout: post
+---
+
+# Arbok
+
+![Arbok](https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png)
+
+**_Pokédex No.: 24_**
+
+This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible.
+
+[Read more here](https://www.pokemon.com/au/pokedex/arbok)
