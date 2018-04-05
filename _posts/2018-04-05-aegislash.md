@@ -1,6 +1,6 @@
 ---
 title: Aegislash
-date: 2018-04-05
+date: 2018-04-05 00:00:00 +10:00
 permalink: "/aegislash/"
 layout: post
 ---
